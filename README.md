@@ -11,11 +11,11 @@
 </ol>
 <p>It also provides information about </p>
 <ol> <li>Time Complexity</li>
-  <ul>
+  <ul type="disk">
     <li>Worst Case</li>
     <li>Average Case</li>
     <li>Best Case</li>
   </ul>
   <li>Space Complexity</li>
-  <ul><li>Worst Case</li></ul>
+  <ul type="disk"><li>Worst Case</li></ul>
 </ol>
