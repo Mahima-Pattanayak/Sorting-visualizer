@@ -20,12 +20,13 @@
   <ul><li>Worst Case</li></ul>
 </ol>
 <hr>
-![selection sort](https://github.com/Mahima-Pattanayak/Sorting-visualizer/assets/164752721/0bfc4504-adbd-4f75-badb-22ff474c74b0)
-![quick sort](https://github.com/Mahima-Pattanayak/Sorting-visualizer/assets/164752721/17a9593e-71ec-43ca-ada9-822c0d02796c)
-![merge sort](https://github.com/Mahima-Pattanayak/Sorting-visualizer/assets/164752721/9d4fde40-91b8-46de-9a5e-e15deed68352)
-![insertion sort](https://github.com/Mahima-Pattanayak/Sorting-visualizer/assets/164752721/e5745562-2d7a-490f-8576-3a12bebf2007)
-![heap sort](https://github.com/Mahima-Pattanayak/Sorting-visualizer/assets/164752721/9ce3350d-2af0-4fbb-bc0b-97b242387abf)
-![bubble sort](https://github.com/Mahima-Pattanayak/Sorting-visualizer/assets/164752721/7e169174-b64e-40c8-8879-8504c7065850)
+
+![selection sort](https://github.com/Mahima-Pattanayak/Sorting-visualizer/assets/164752721/7c2b46d4-0675-4b62-b8e6-cb6c516d7a33)
+![quick sort](https://github.com/Mahima-Pattanayak/Sorting-visualizer/assets/164752721/a5b76936-35ba-4df1-a403-1f604a37c678)
+![merge sort](https://github.com/Mahima-Pattanayak/Sorting-visualizer/assets/164752721/520ef241-1b05-443a-ab37-ab195eadf1f6)
+![insertion sort](https://github.com/Mahima-Pattanayak/Sorting-visualizer/assets/164752721/22e22f7e-6935-4290-9d95-bba8f849d078)
+![heap sort](https://github.com/Mahima-Pattanayak/Sorting-visualizer/assets/164752721/df477a83-06d2-4746-84d9-13597368986b)
+![bubble sort](https://github.com/Mahima-Pattanayak/Sorting-visualizer/assets/164752721/0c089874-053a-45ff-a76c-08d0301bda5d)
 
 <hr>
 
