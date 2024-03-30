@@ -20,11 +20,6 @@
   <ul><li>Worst Case</li></ul>
 </ol>
 <hr>
-![Screenshot (96)](https://github.com/Mahima-Pattanayak/Sorting-visualizer/assets/164752721/c9ee1605-a22b-4724-b760-6e8b635f6854)
-![Screenshot (95)](https://github.com/Mahima-Pattanayak/Sorting-visualizer/assets/164752721/f2d9ddcf-c277-451c-ab37-1d18bdb3b509)
-![Screenshot (94)](https://github.com/Mahima-Pattanayak/Sorting-visualizer/assets/164752721/d598fecb-5adf-4edf-bbf8-e84f8904ee6f)
-![Screenshot (93)](https://github.com/Mahima-Pattanayak/Sorting-visualizer/assets/164752721/74797348-b020-4a56-94ab-450f6bc9cbf7)
-![Screenshot (92)](https://github.com/Mahima-Pattanayak/Sorting-visualizer/assets/164752721/85d834a8-4f0a-4c5c-bc9c-168093d96146)
-![Screenshot (91)](https://github.com/Mahima-Pattanayak/Sorting-visualizer/assets/164752721/96e7006b-d513-4950-920c-e36eeba084db)
+![Screenshot (91)](https://github.com/Mahima-Pattanayak/Sorting-visualizer/assets/164752721/eaf767cd-ba48-4356-a17e-eb3d2c6a7e77)
 <hr>
 
