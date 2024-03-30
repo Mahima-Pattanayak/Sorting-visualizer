@@ -20,6 +20,6 @@
   <ul><li>Worst Case</li></ul>
 </ol>
 <hr>
-![Screenshot (91)](https://github.com/Mahima-Pattanayak/Sorting-visualizer/assets/164752721/eaf767cd-ba48-4356-a17e-eb3d2c6a7e77)
+![Screenshot (91)](https://github.com/Mahima-Pattanayak/Sorting-visualizer/assets/164752721/eaf767cd-ba48-4356-a17e-eb3d2c6a7e77.png)
 <hr>
 
